@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ofertas Destacadas | Las Mejores Oportunidades en Amazon</title>
+    <!-- Tailwind CSS desde CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome para Iconos -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <!-- Fuente Inter de Google -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-slate-100 min-h-screen font-sans">
+
+    <!-- Header Principal con Vidrio Esmerilado (Glassmorphism) -->
+    <header class="bg-slate-900/80 backdrop-blur-md border-b border-slate-700/50 sticky top-0 z-50 transition-all">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-3">
+                <div class="bg-gradient-to-tr from-amber-500 to-orange-500 p-2.5 rounded-xl shadow-lg shadow-orange-500/20">
+                    <i class="fas fa-[#FF9900] fa-bolt text-slate-950 text-xl"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl font-extrabold tracking-tight bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
+                        OfertasFlash<span class="text-amber-400">.io</span>
+                    </h1>
+                    <p class="text-xs text-slate-400 hidden sm:block">Precios y stock verificados en tiempo real</p>
+                </div>
+            </div>
+            <div class="flex items-center space-x-2 bg-slate-800/80 border border-slate-700/60 px-3 py-1.5 rounded-full text-xs font-semibold text-emerald-400 shadow-inner">
+                <span class="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></span>
+                <span>Catálogo Actualizado</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section / Encabezado -->
+    <section class="py-12 px-4 text-center relative overflow-hidden">
+        <div class="absolute inset-0 bg-blue-500/5 blur-3xl rounded-full pointer-events-none"></div>
+        <div class="container mx-auto max-w-3xl relative z-10">
+            <span class="bg-orange-500/10 text-orange-400 border border-orange-500/20 text-xs font-bold px-4 py-1.5 rounded-full uppercase tracking-widest inline-block mb-4 shadow-sm">
+                🔥 Recomendaciones de Compra
+            </span>
+            <h2 class="text-4xl sm:text-5xl font-black tracking-tight text-white mb-4 leading-tight">
+                Las Mejores Ofertas Selecciónadas de <span class="bg-gradient-to-r from-amber-400 to-orange-500 bg-clip-text text-transparent">Amazon</span>
+            </h2>
+            <p class="text-slate-400 text-base sm:text-lg max-w-2xl mx-auto">
+                Analizamos y comparamos productos diariamente para traerte solo las opciones con la mejor relación calidad-precio.
+            </p>
+        </div>
+    </section>
+
+    <!-- Contenido Principal / Grid de Productos -->
+    <main class="container mx-auto px-4 pb-20">
+        <div id="grid-productos" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <!-- Loader inicial mientras carga el JSON -->
+            <div class="col-span-full flex flex-col items-center justify-center py-20 text-slate-400">
+                <div class="w-12 h-12 border-4 border-amber-500/20 border-t-amber-500 rounded-full animate-spin mb-4"></div>
+                <p class="font-medium text-sm">Cargando las ofertas de hoy...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-slate-800 bg-slate-950 py-8 text-center text-xs text-slate-500">
+        <div class="container mx-auto px-4">
+            <p class="mb-2">Como Afiliado de Amazon, podemos obtener ingresos por las compras adscritas que cumplan los requisitos aplicables.</p>
+            <p>© 2026 OfertasFlash. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Lógica de Carga y Rendizado en JavaScript -->
+    <script>
+        async function cargarProductos() {
+            try {
+                const respuesta = await fetch('productos.json');
+                const productos = await respuesta.json();
+                const grid = document.getElementById('grid-productos');
+                grid.innerHTML = '';
+
+                if (productos.length === 0) {
+                    grid.innerHTML = '<p class="col-span-full text-center text-slate-400 py-10">No hay ofertas disponibles en este momento.</p>';
+                    return;
+                }
+
+                productos.forEach((prod, index) => {
+                    const card = `
+                    <div class="group bg-slate-800/60 border border-slate-700/60 hover:border-amber-500/50 rounded-2xl overflow-hidden flex flex-col justify-between transition-all duration-300 hover:-translate-y-1.5 hover:shadow-2xl hover:shadow-amber-500/10 backdrop-blur-sm">
+                        
+                        <div>
+                            <!-- Imagen del Producto -->
+                            <div class="relative bg-white/95 p-6 h-52 flex items-center justify-center overflow-hidden">
+                                <span class="absolute top-3 left-3 bg-slate-900/90 backdrop-blur-md text-amber-400 border border-slate-700 text-[10px] font-extrabold px-2.5 py-1 rounded-lg uppercase tracking-wider shadow-md">
+                                    #${index + 1} Top Elección
+                                </span>
+                                <img src="${prod.imagen}" alt="${prod.nombre}" class="max-h-full max-w-full object-contain group-hover:scale-105 transition-transform duration-500 ease-out">
+                            </div>
+
+                            <!-- Detalles -->
+                            <div class="p-5">
+                                <h3 class="text-base font-bold text-slate-100 group-hover:text-amber-400 transition-colors line-clamp-2 mb-2 leading-snug">
+                                    ${prod.nombre}
+                                </h3>
+                                <p class="text-xs text-slate-400 mb-4 line-clamp-2 leading-relaxed">
+                                    ${prod.caracteristica}
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Precio y Botón de Afiliado -->
+                        <div class="p-5 pt-0">
+                            <div class="flex items-baseline justify-between mb-4 pb-3 border-b border-slate-700/40">
+                                <div>
+                                    <span class="text-xs text-slate-400 block font-medium">Precio comprobado</span>
+                                    <span class="text-2xl font-black text-white tracking-tight">${prod.precio}€</span>
+                                </div>
+                                <span class="text-xs font-semibold text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-2 py-0.5 rounded-md">
+                                    En Stock
+                                </span>
+                            </div>
+
+                            <a href="${prod.link_afiliado}" target="_blank" rel="nofollow noopener" 
+                               class="w-full flex items-center justify-center space-x-2 bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-extrabold py-3 px-4 rounded-xl shadow-lg shadow-orange-500/20 hover:shadow-orange-500/30 transition-all duration-200 active:scale-95 text-sm">
+                                <i class="fab fa-amazon text-base"></i>
+                                <span>Ver Oferta en Amazon</span>
+                                <i class="fas fa-arrow-right text-xs opacity-70 group-hover:translate-x-1 transition-transform"></i>
+                            </a>
+                        </div>
+                    </div>
+                    `;
+                    grid.innerHTML += card;
+                });
+
+            } catch (error) {
+                console.error("Error al cargar productos:", error);
+                document.getElementById('grid-productos').innerHTML = `
+                    <div class="col-span-full text-center py-12 text-red-400">
+                        <i class="fas fa-exclamation-triangle text-3xl mb-2"></i>
+                        <p class="font-bold">No se pudieron cargar las ofertas.</p>
+                        <p class="text-xs text-slate-500 mt-1">Asegúrate de ejecutar 'actualizar_productos.py' para generar el archivo JSON.</p>
+                    </div>
+                `;
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', cargarProductos);
+    </script>
+</body>
+</html>
