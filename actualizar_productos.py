@@ -73,7 +73,7 @@ def obtener_datos_amazon(url, index):
             
             # 3. Extraer Precio
             precio_elem = soup.find('span', class_='a-offscreen')
-            precio_texto = precio_elem.get_text().strip() if precio_elem else "29.99€"
+            precio_texto = precio_elem.get_text().strip() if precio_elem else "29.99$"
             # Limpiar el precio para dejar solo el número
             precio_num = re.sub(r'[^\d,.]', '', precio_texto).replace(',', '.')
             try:
