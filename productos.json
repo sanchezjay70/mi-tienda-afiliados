@@ -1,258 +1,258 @@
 [
     {
         "id": "PROD-1",
-        "nombre": "Producto Seleccionado Oferta #1",
-        "precio": 29.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "CENTELLIAN 24 Madeca Cream Time Reverse, TECA Anti-Aging Moisturizer",
+        "precio": 41.95,
+        "imagen": "https://m.media-amazon.com/images/I/31xWSsDJpmL._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B069mnmiX?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-2",
-        "nombre": "Producto Seleccionado Oferta #2",
-        "precio": 33.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "CeraVe, crema hidratante, hidratante corporal y facial para piel seca, crema corporal con ácido hialurónico y ceramidas, hidratante diario, sin aceite, sin fragancia, no comedogénica, 19 onzas",
+        "precio": 17.99,
+        "imagen": "https://m.media-amazon.com/images/I/41ba2zJNMXL._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B06UkY9Tn?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-3",
-        "nombre": "Producto Seleccionado Oferta #3",
-        "precio": 36.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Amazon Echo Spot (seminuevo, último modelo): ideal para mesitas de noche, oficinas y cocinas, con despertador inteligente, diseñado para Alexa+ (negro)",
+        "precio": 5499.0,
+        "imagen": "https://m.media-amazon.com/images/I/71cSMRiDN2L._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0j7e7GgZ?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-4",
-        "nombre": "Producto Seleccionado Oferta #4",
-        "precio": 40.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Breville BOV900BSS Smart Oven Air Fryer Pro, Brushed Stainless Steel",
+        "precio": 18045.0,
+        "imagen": "https://m.media-amazon.com/images/I/718ih5tMKnL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0cwHhChT?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-5",
-        "nombre": "Producto Seleccionado Oferta #5",
-        "precio": 43.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Instant Pot 4Qt VORTEX 6 en 1 Mini Freidora de Aire, Opciones de Programas Personalizados, Freír al Aire, Asar, Asar a la Parrilla, Deshidratar, Hornear, Recalentar, Agua de Rosas, 4 Quarts",
+        "precio": 56.99,
+        "imagen": "https://m.media-amazon.com/images/I/71OuoLHY1uL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0c5C9XLw?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-6",
-        "nombre": "Producto Seleccionado Oferta #6",
-        "precio": 47.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Lodge Essential - Horno holandés de hierro fundido esmaltado, 6 cuartos de galón, color blanco ostra",
+        "precio": 56.99,
+        "imagen": "https://m.media-amazon.com/images/I/618X4klCsRL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B02rKyKwe?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-7",
-        "nombre": "Producto Seleccionado Oferta #7",
-        "precio": 50.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Keurig K-Duo - Cafetera caliente y helada de una sola porción y jarra",
+        "precio": 14.95,
+        "imagen": "https://m.media-amazon.com/images/I/717849a6v+L._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0bD6BdAI?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-8",
-        "nombre": "Producto Seleccionado Oferta #8",
-        "precio": 54.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Instant Pot IP-DUO60, 6cuartos/1000W - Olla a presión multifunción 7 en 1, Acero inoxidable y negro",
+        "precio": 69.99,
+        "imagen": "https://m.media-amazon.com/images/I/71MLaYtMFOL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B09AAbGtn?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-9",
-        "nombre": "Producto Seleccionado Oferta #9",
-        "precio": 57.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Vitamix 5200 Licuadora de grado profesional, recipiente de 64 onzas, color negro",
+        "precio": 344.95,
+        "imagen": "https://m.media-amazon.com/images/I/71LFQWt5nEL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B03sfDqSr?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-10",
-        "nombre": "Producto Seleccionado Oferta #10",
-        "precio": 61.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Emeril Lagasse Combo de Horno Tostador y Freidora de Aire Extra Grande con Puerta Francesa, 24 Funciones de Cocción y Controles Digitales, 7 Accesorios Incluidos, Acabado de Acero Inoxidable",
+        "precio": 169.99,
+        "imagen": "https://m.media-amazon.com/images/I/81AUxm--7pL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0aAEURgi?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-11",
-        "nombre": "Producto Seleccionado Oferta #11",
-        "precio": 64.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Cuisinart Procesador de alimentos, picadora de alimentos vegetales de 14",
+        "precio": 199.95,
+        "imagen": "https://m.media-amazon.com/images/I/71ktQE8jAhL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B00SjweNb?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-12",
-        "nombre": "Producto Seleccionado Oferta #12",
-        "precio": 68.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Crock-Pot® Design Series - Olla de cocción lenta programable de 7 cuartos de galón, color azul neblina matutina",
+        "precio": 54.99,
+        "imagen": "https://m.media-amazon.com/images/I/61CcCUkFq6L._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B04FiMXrH?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-13",
-        "nombre": "Producto Seleccionado Oferta #13",
-        "precio": 71.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Rubbermaid Brilliance - Recipientes de vidrio para almacenamiento de alimentos, varios tamaños, juego de 9, sin BPA, a prueba de fugas, transparentes",
+        "precio": 2372.0,
+        "imagen": "https://m.media-amazon.com/images/I/71H+hPWNagL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B02nq1zsx?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-14",
-        "nombre": "Producto Seleccionado Oferta #14",
-        "precio": 75.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "TOSOWOONG Crema de barrera de ceramida para piel seca y sensible",
+        "precio": 17.5,
+        "imagen": "https://m.media-amazon.com/images/I/31NHEr4UEFL._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B04Y4VWWD?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-15",
-        "nombre": "Producto Seleccionado Oferta #15",
-        "precio": 78.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Dr.Jart+ Power Derma Barrier - Crema facial coreana | Crema hidratante coreana de barrera cutánea con pantenol, cuidado de la piel coreano, 2.71 onzas líquidas",
+        "precio": 2500.0,
+        "imagen": "https://m.media-amazon.com/images/I/21grqW318nL._SX342_SY445_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0ix1Skjc?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-16",
-        "nombre": "Producto Seleccionado Oferta #16",
-        "precio": 82.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Anua Salmon DNA PDRN Glow Essential Starter Kit",
+        "precio": 4500.0,
+        "imagen": "https://m.media-amazon.com/images/I/41BL4191C+L._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B00DXYAkp?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-17",
-        "nombre": "Producto Seleccionado Oferta #17",
-        "precio": 85.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "celimax TXA - Almohadilla aclaradora corporal, 50 almohadillas",
+        "precio": 17.5,
+        "imagen": "https://m.media-amazon.com/images/I/3144vyulqmL._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B00QKWEDw?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-18",
-        "nombre": "Producto Seleccionado Oferta #18",
-        "precio": 89.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "AESTURA ATOBARRIER365 Crema con Ceramidas, Hidratante Facial Coreano para Reparación de la Barrera | Hidratación Duradera de 120H, Cápsulas de Ceramidas, Para Piel Seca y Sensible, No comedogénica, 80",
+        "precio": 25.6,
+        "imagen": "https://m.media-amazon.com/images/I/31urAopo7rL._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B01fpnlw4?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-19",
-        "nombre": "Producto Seleccionado Oferta #19",
-        "precio": 92.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Bio-Oil - Suero de aceite corporal sin fragancia, cicatrices y estrías, 0.85 onzas, paquete de 3",
+        "precio": 21.45,
+        "imagen": "https://m.media-amazon.com/images/I/41rHMhyz05L._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0appfW92?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-20",
-        "nombre": "Producto Seleccionado Oferta #20",
-        "precio": 96.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "medicube Almohadillas de tóner Zero Pore Pad 2.0 para exfoliación y cuidado",
+        "precio": 14.9,
+        "imagen": "https://m.media-amazon.com/images/I/41QbIzhK+TL._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B08Qoyyid?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-21",
-        "nombre": "Producto Seleccionado Oferta #21",
-        "precio": 99.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Nizoral - Champú anticaspa, básico, fresco, 7 onzas fluidas",
+        "precio": 2799.0,
+        "imagen": "https://m.media-amazon.com/images/I/515+1GXZN2L._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B05JqgofS?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-22",
-        "nombre": "Producto Seleccionado Oferta #22",
-        "precio": 103.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Nutrafol Women's Balance Hair Growth Supplements, Age 45+, 1-Month Bottle",
+        "precio": 17600.0,
+        "imagen": "https://m.media-amazon.com/images/I/31xuey97iTL._SX342_SY445_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B01TiNaKq?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-23",
-        "nombre": "Producto Seleccionado Oferta #23",
-        "precio": 106.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "L3 Level 3 Hair Texture Powder for Men, Volume, Natural Look, 30 g",
+        "precio": 9.99,
+        "imagen": "https://m.media-amazon.com/images/I/31QD19VL68L._SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0hzJawMW?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-24",
-        "nombre": "Producto Seleccionado Oferta #24",
-        "precio": 110.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Philips 24 Inch Computer Monitor FHD 100Hz VA VESA Flicker-Free, 241V8LB",
+        "precio": 74.99,
+        "imagen": "https://m.media-amazon.com/images/I/71oilmGrVuL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0cwYqSL3?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-25",
-        "nombre": "Producto Seleccionado Oferta #25",
-        "precio": 113.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Extensor de pantalla triple para portátil de 14\", monitor portátil",
+        "precio": 179.99,
+        "imagen": "https://m.media-amazon.com/images/I/71cg9+MbyPL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0e0UywZ9?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-26",
-        "nombre": "Producto Seleccionado Oferta #26",
-        "precio": 117.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Dell Monitor 27 - SE2726H - Pantalla FHD de 27 pulgadas (1920x1080) 144Hz 1ms, tecnología de conmutación en el plano (IPS), AMD FreeSync™, TÜV 3-Star 2X HDMI, Tilt",
+        "precio": 109.75,
+        "imagen": "https://m.media-amazon.com/images/I/71vaEK60XIL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B04YNijKa?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-27",
-        "nombre": "Producto Seleccionado Oferta #27",
-        "precio": 120.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Beats 360 — Auriculares sobre la oreja con cojines intercambiables, resistencia al sudor y al agua y cancelación de ruido, color negro con cojines de punto negros",
+        "precio": 29.99,
+        "imagen": "https://m.media-amazon.com/images/I/71qwNPkW+2L._AC_SX342_SY445_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B03JC4NL5?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-28",
-        "nombre": "Producto Seleccionado Oferta #28",
-        "precio": 124.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Pioneer GM-A5702 1000W Max Class AB Bridgeable 2-Channel Car Amplifier",
+        "precio": 97.49,
+        "imagen": "https://m.media-amazon.com/images/I/61Rap+-38WL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0hwjP3KF?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-29",
-        "nombre": "Producto Seleccionado Oferta #29",
-        "precio": 127.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Apple Laptop MacBook Air 2026 de 13 pulgadas con chip M5: diseñada para AI, pantalla de retina líquida de 13.6 pulgadas, memoria unificada de 16 GB, SSD de 1 TB, cámara central de 12 MP, Touch ID, Wi-Fi 7; Medianoche",
+        "precio": 29.99,
+        "imagen": "https://m.media-amazon.com/images/I/71pkfQGcMKL._AC_SX342_SY445_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0e4teK0D?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-30",
-        "nombre": "Producto Seleccionado Oferta #30",
-        "precio": 131.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Apple Laptop MacBook Air 2026 de 13 pulgadas con chip M5: diseñada para AI, pantalla de retina líquida de 13.6 pulgadas, memoria unificada de 16 GB, SSD de 512 GB, cámara central de 12 MP, Touch ID, Wi-Fi 7; azul cielo",
+        "precio": 29.99,
+        "imagen": "https://m.media-amazon.com/images/I/71igu9e9hFL._AC_SX342_SY445_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0gq8fhD4?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-31",
-        "nombre": "Producto Seleccionado Oferta #31",
-        "precio": 134.99,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "Lenovo Portátil FHD+ Premium Performance de 16\", i5-13420H, 16GB RAM, SSD",
+        "precio": 26900.0,
+        "imagen": "https://m.media-amazon.com/images/I/71lrzMbuiVL._AC_SY300_SX300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B04xICsAV?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     },
     {
         "id": "PROD-32",
-        "nombre": "Producto Seleccionado Oferta #32",
-        "precio": 138.49,
-        "imagen": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+        "nombre": "HP Nuevo portátil delgado para todos los días • Edición 2026-2027 • Microsoft Office 365 incluido • CPU Intel N150 • SSD de 128 GB + 1 TB de almacenamiento en la nube • IA Copilot • Windows 11",
+        "precio": 36500.0,
+        "imagen": "https://m.media-amazon.com/images/I/61AGb56rUBL._AC_SX300_SY300_QL70_ML2_.jpg",
         "link_afiliado": "https://link.amazon/B0hur1vRe?tag=tu-codigo-21",
-        "caracteristica": "Producto destacado con envío rápido y garantía de devolución."
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
     }
 ]
