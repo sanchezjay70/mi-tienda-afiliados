@@ -1,258 +1,354 @@
 [
     {
         "id": "PROD-1",
+        "asin": "B0DFY92NDB",
         "nombre": "CENTELLIAN 24 Madeca Cream Time Reverse, TECA Anti-Aging Moisturizer",
-        "precio": 41.95,
-        "imagen": "https://m.media-amazon.com/images/I/31xWSsDJpmL._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B069mnmiX?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 29.37,
+        "imagen": "https://m.media-amazon.com/images/I/51hxp0A8ZsL._SL1080_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0DFY92NDB?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:17"
     },
     {
         "id": "PROD-2",
+        "asin": "B00TTD9BRC",
         "nombre": "CeraVe Moisturizing Cream, Face & Body Moisturizer for Dry Skin, 19oz",
-        "precio": 17.99,
-        "imagen": "https://m.media-amazon.com/images/I/41ba2zJNMXL._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B06UkY9Tn?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 18.96,
+        "imagen": "https://m.media-amazon.com/images/I/61EidjXUBrL._SL1000_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B00TTD9BRC?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:17"
     },
     {
         "id": "PROD-3",
+        "asin": "B0C2RXLM89",
         "nombre": "Like-New Amazon Echo Spot (newest model), Great for nightstands, offices and kitchens, Smart alarm clock, Designed for Alexa+, Black",
-        "precio": 54.99,
-        "imagen": "https://m.media-amazon.com/images/I/71cSMRiDN2L._AC_SY300_SX300_QL70_ML2_.jpg",
-        "link_afiliado": "https://link.amazon/B0j7e7GgZ?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 49.99,
+        "imagen": "https://m.media-amazon.com/images/I/71cSMRiDN2L._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0C2RXLM89?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:17"
     },
     {
         "id": "PROD-4",
+        "asin": "B01N5UPTZS",
         "nombre": "Breville BOV900BSS Smart Oven Air Fryer Pro, Brushed Stainless Steel",
-        "precio": 180.45,
-        "imagen": "https://m.media-amazon.com/images/I/718ih5tMKnL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0cwHhChT?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 319.95,
+        "imagen": "https://m.media-amazon.com/images/I/718ih5tMKnL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B01N5UPTZS?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:17"
     },
     {
         "id": "PROD-5",
+        "asin": "B0F9B48Q1B",
         "nombre": "Instant Pot 4Qt VORTEX 6-in-1 Mini Air Fryer, Custom Program Options, Air Fry, Broil, Roast, Dehydrate, Bake, Reheat, Rosewater, 4 Quarts",
         "precio": 56.99,
-        "imagen": "https://m.media-amazon.com/images/I/71OuoLHY1uL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0c5C9XLw?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "imagen": "https://m.media-amazon.com/images/I/71OuoLHY1uL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0F9B48Q1B?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:18"
     },
     {
         "id": "PROD-6",
+        "asin": "B00U1OCPWQ",
         "nombre": "Lodge Essential Enamel Cast Iron Dutch Oven, 6 Quart, Oyster White",
-        "precio": 56.99,
-        "imagen": "https://m.media-amazon.com/images/I/618X4klCsRL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B02rKyKwe?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 69.99,
+        "imagen": "https://m.media-amazon.com/images/I/618X4klCsRL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B00U1OCPWQ?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:18"
     },
     {
         "id": "PROD-7",
+        "asin": "B0D8LXRHQ8",
         "nombre": "Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker, MultiStream Technology, 72oz Reservoir (Gen 2)",
-        "precio": 14.95,
-        "imagen": "https://m.media-amazon.com/images/I/717849a6v+L._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0bD6BdAI?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 129.99,
+        "imagen": "https://m.media-amazon.com/images/I/717849a6v+L._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0D8LXRHQ8?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:18"
     },
     {
         "id": "PROD-8",
+        "asin": "B00FLYWNYQ",
         "nombre": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel",
-        "precio": 69.99,
-        "imagen": "https://m.media-amazon.com/images/I/71MLaYtMFOL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B09AAbGtn?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 109.99,
+        "imagen": "https://m.media-amazon.com/images/I/71MLaYtMFOL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B00FLYWNYQ?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:11"
     },
     {
         "id": "PROD-9",
+        "asin": "B008H4SLV6",
         "nombre": "Vitamix 5200 Professional-Grade Blender, 64 oz. Container, Black",
-        "precio": 344.95,
-        "imagen": "https://m.media-amazon.com/images/I/71LFQWt5nEL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B03sfDqSr?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 359.95,
+        "imagen": "https://m.media-amazon.com/images/I/71LFQWt5nEL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B008H4SLV6?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:12"
     },
     {
         "id": "PROD-10",
+        "asin": "B09B7SB46R",
         "nombre": "Emeril Lagasse 26QT French Door Multi-Function Air Fryer Toaster Oven",
-        "precio": 119.99,
-        "imagen": "https://m.media-amazon.com/images/I/81AUxm--7pL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0aAEURgi?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 199.99,
+        "imagen": "https://m.media-amazon.com/images/I/81AUxm--7pL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B09B7SB46R?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:12"
     },
     {
         "id": "PROD-11",
+        "asin": "B01AXM4WV2",
         "nombre": "Cuisinart Food Processor, 14-Cup Vegetable Food Chopper for Mincing, Dicing, Shredding, Puree & Kneading Dough, 720-Watt Motor, Stainless Steel, DFP-14BCNY",
-        "precio": 199.95,
-        "imagen": "https://m.media-amazon.com/images/I/71ktQE8jAhL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B00SjweNb?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 199.99,
+        "imagen": "https://m.media-amazon.com/images/I/71ktQE8jAhL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B01AXM4WV2?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:12"
     },
     {
         "id": "PROD-12",
+        "asin": "B0FMPHRGPC",
         "nombre": "Crock-Pot® Design Series 7-Quart Programmable Slow Cooker, Morning Haze Blue",
-        "precio": 54.99,
-        "imagen": "https://m.media-amazon.com/images/I/61CcCUkFq6L._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B04FiMXrH?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 59.95,
+        "imagen": "https://m.media-amazon.com/images/I/61CcCUkFq6L._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0FMPHRGPC?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:12"
     },
     {
         "id": "PROD-13",
+        "asin": "B08BR9HBZ3",
         "nombre": "Rubbermaid Brilliance Glass Food Storage Containers, Assorted Sizes, Set of 9, BPA-Free, Leak-Proof, Clear",
-        "precio": 42.49,
-        "imagen": "https://m.media-amazon.com/images/I/71H+hPWNagL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B02nq1zsx?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 79.99,
+        "imagen": "https://m.media-amazon.com/images/I/71H+hPWNagL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B08BR9HBZ3?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:12"
     },
     {
         "id": "PROD-14",
+        "asin": "B0G1YM24C2",
         "nombre": "TOSOWOONG Ceramide Barrier Cream for Dry & Sensitive Skin, Hydrating, Dewy",
-        "precio": 17.5,
-        "imagen": "https://m.media-amazon.com/images/I/31NHEr4UEFL._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B04Y4VWWD?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 25.0,
+        "imagen": "https://m.media-amazon.com/images/I/61AyJUxbt5L._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0G1YM24C2?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:13"
     },
     {
         "id": "PROD-15",
+        "asin": "B0H1HYF2MY",
         "nombre": "Dr.Jart+ Derma Barrier Korean Face Cream | Korean Skin Barrier Moisturizer with Panthenol | Korean Skin Care, 2.71 Fl Oz",
-        "precio": 2500.0,
-        "imagen": "https://m.media-amazon.com/images/I/21grqW318nL._SX342_SY445_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0ix1Skjc?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 30.0,
+        "imagen": "https://m.media-amazon.com/images/I/61uMLOB66CL._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0H1HYF2MY?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:13"
     },
     {
         "id": "PROD-16",
+        "asin": "B0FSJQ3KJT",
         "nombre": "Anua Salmon DNA PDRN Glow Essential Starter Kit",
-        "precio": 45.0,
-        "imagen": "https://m.media-amazon.com/images/I/41BL4191C+L._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B00DXYAkp?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 20.0,
+        "imagen": "https://m.media-amazon.com/images/I/71YVdkGE+YL._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0FSJQ3KJT?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:13"
     },
     {
         "id": "PROD-17",
+        "asin": "B0GZNCHQX3",
         "nombre": "celimax TXA Body Clarifying Pad, 50 Pads",
-        "precio": 17.5,
-        "imagen": "https://m.media-amazon.com/images/I/3144vyulqmL._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B00QKWEDw?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 22.5,
+        "imagen": "https://m.media-amazon.com/images/I/61hjHRxCAEL._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0GZNCHQX3?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:13"
     },
     {
         "id": "PROD-18",
+        "asin": "B09YDCCJBJ",
         "nombre": "AESTURA ATOBARRIER365 Cream with Ceramides, 80 ML",
-        "precio": 25.6,
-        "imagen": "https://m.media-amazon.com/images/I/31urAopo7rL._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B01fpnlw4?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 32.0,
+        "imagen": "https://m.media-amazon.com/images/I/61LwBIkkFgL._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B09YDCCJBJ?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:13"
     },
     {
         "id": "PROD-19",
+        "asin": "B0C2WS842H",
         "nombre": "Bio-Oil Fragrance-Free Body Oil Serum, Scars & Stretch Marks, 0.85 oz, 3pk",
         "precio": 21.45,
-        "imagen": "https://m.media-amazon.com/images/I/41rHMhyz05L._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0appfW92?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "imagen": "https://m.media-amazon.com/images/I/611WliA9f1L._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0C2WS842H?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:13"
     },
     {
         "id": "PROD-20",
+        "asin": "B09V7Z4TJG",
         "nombre": "medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care",
-        "precio": 14.9,
-        "imagen": "https://m.media-amazon.com/images/I/41QbIzhK+TL._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B08Qoyyid?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 18.9,
+        "imagen": "https://m.media-amazon.com/images/I/71Mcspt-6AL._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B09V7Z4TJG?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:14"
     },
     {
         "id": "PROD-21",
+        "asin": "B00AINMFAC",
         "nombre": "Nizoral Anti-Dandruff Shampoo with 1% Ketoconazole, Fresh Scent, 7 Fl Oz",
-        "precio": 27.99,
-        "imagen": "https://m.media-amazon.com/images/I/515+1GXZN2L._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B05JqgofS?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 16.88,
+        "imagen": "https://m.media-amazon.com/images/I/71UKDMdW3KL._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B00AINMFAC?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:14"
     },
     {
         "id": "PROD-22",
+        "asin": "B07QZ5CTTF",
         "nombre": "Nutrafol Women's Balance Hair Growth Supplements, Age 45+, 1-Month Bottle",
-        "precio": 176.0,
-        "imagen": "https://m.media-amazon.com/images/I/31xuey97iTL._SX342_SY445_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B01TiNaKq?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 88.0,
+        "imagen": "https://m.media-amazon.com/images/I/61wiA0MmV8L._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B07QZ5CTTF?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:14"
     },
     {
         "id": "PROD-23",
+        "asin": "B08SNSSTPZ",
         "nombre": "L3 Level 3 Hair Texture Powder for Men, Volume, Natural Look, 30 g",
         "precio": 9.99,
-        "imagen": "https://m.media-amazon.com/images/I/31QD19VL68L._SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0hzJawMW?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "imagen": "https://m.media-amazon.com/images/I/61E9d8d0PNL._SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B08SNSSTPZ?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:14"
     },
     {
         "id": "PROD-24",
+        "asin": "B0C8ZKV5R9",
         "nombre": "Philips 24 Inch Computer Monitor FHD 100Hz VA VESA Flicker-Free, 241V8LB",
-        "precio": 74.99,
-        "imagen": "https://m.media-amazon.com/images/I/71oilmGrVuL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0cwYqSL3?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 79.99,
+        "imagen": "https://m.media-amazon.com/images/I/71oilmGrVuL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0C8ZKV5R9?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:15"
     },
     {
         "id": "PROD-25",
+        "asin": "B0H8Y6JDL2",
         "nombre": "14\" Triple Laptop Screen Extender, 1080P Ultra-Slim Portable Monitor",
         "precio": 179.99,
-        "imagen": "https://m.media-amazon.com/images/I/71cg9+MbyPL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0e0UywZ9?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "imagen": "https://m.media-amazon.com/images/I/71cg9+MbyPL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0H8Y6JDL2?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:15"
     },
     {
         "id": "PROD-26",
+        "asin": "B0GLRCN2SW",
         "nombre": "Dell 27 Monitor - SE2726H - 27-inch FHD (1920x1080) 144Hz 1ms Display, in-Plane Switching (IPS) Technology, AMD FreeSync™, TÜV 3-Star 2X HDMI, Tilt",
-        "precio": 109.75,
-        "imagen": "https://m.media-amazon.com/images/I/71vaEK60XIL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B04YNijKa?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 99.87,
+        "imagen": "https://m.media-amazon.com/images/I/71vaEK60XIL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0GLRCN2SW?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:15"
     },
     {
         "id": "PROD-27",
+        "asin": "B0HBZPBVQJ",
         "nombre": "Beats 360 — Over-Ear Headphones with Interchangeable Cushions, Sweat & Water Resistance and Noise Cancellation — Black with Black Performance Knit Cushions",
-        "precio": 28.75,
-        "imagen": "https://m.media-amazon.com/images/I/71qwNPkW+2L._AC_SX342_SY445_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B03JC4NL5?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 349.0,
+        "imagen": "https://m.media-amazon.com/images/I/71qwNPkW+2L._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0HBZPBVQJ?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:15"
     },
     {
         "id": "PROD-28",
+        "asin": "B01KKHTFSK",
         "nombre": "Pioneer GM-A5702 1000W Max Class AB Bridgeable 2-Channel Car Amplifier",
-        "precio": 97.49,
-        "imagen": "https://m.media-amazon.com/images/I/61Rap+-38WL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0hwjP3KF?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 130.0,
+        "imagen": "https://m.media-amazon.com/images/I/61Rap+-38WL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B01KKHTFSK?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:15"
     },
     {
         "id": "PROD-29",
+        "asin": "B0GR1FSY63",
         "nombre": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 1TB SSD, 12MP Center Stage Camera, Touch ID, Wi-Fi 7; Midnight",
-        "precio": 28.75,
-        "imagen": "https://m.media-amazon.com/images/I/71pkfQGcMKL._AC_SX342_SY445_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0e4teK0D?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 1399.0,
+        "imagen": "https://m.media-amazon.com/images/I/71pkfQGcMKL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0GR1FSY63?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:15"
     },
     {
         "id": "PROD-30",
+        "asin": "B0GR1493ZV",
         "nombre": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 512GB SSD, 12MP Center Stage Camera, Touch ID, Wi-Fi 7; Sky Blue",
-        "precio": 28.75,
-        "imagen": "https://m.media-amazon.com/images/I/71igu9e9hFL._AC_SX342_SY445_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0gq8fhD4?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 1099.0,
+        "imagen": "https://m.media-amazon.com/images/I/71igu9e9hFL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0GR1493ZV?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:16"
     },
     {
         "id": "PROD-31",
+        "asin": "B0HF7WTGSR",
         "nombre": "Lenovo Business 15.6\" FHD Laptop, Intel Processor, 8GB DDR5, 128GB Storage",
-        "precio": 269.0,
-        "imagen": "https://m.media-amazon.com/images/I/71lrzMbuiVL._AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B04xICsAV?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "precio": 429.99,
+        "imagen": "https://m.media-amazon.com/images/I/71YodqcTw8L._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0HF7WTGSR?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:16"
     },
     {
         "id": "PROD-32",
-        "nombre": "HP New Everyday Slim Laptop • 2026-2027 Edition • Microsoft Office 365 Included • Intel N150 CPU • 128GB SSD + 1TB Cloud Storage • Copilot AI • Windows 11",
-        "precio": 365.0,
-        "imagen": "https://m.media-amazon.com/images/I/61AGb56rUBL._AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "link_afiliado": "https://link.amazon/B0hur1vRe?tag=todoloencue00-20",
-        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon."
+        "asin": "B0H59RLXS7",
+        "nombre": "HP New Everyday Slim Laptop • 2027 Edition • Microsoft Office 365 Included • Intel N150 • 128GB SSD • 1TB Cloud Storage • Copilot AI • Windows 11",
+        "precio": 309.99,
+        "imagen": "https://m.media-amazon.com/images/I/61AGb56rUBL._AC_SL1500_.jpg",
+        "link_afiliado": "https://www.amazon.com/dp/B0H59RLXS7?th=1&psc=1&tag=todoloencue00-20",
+        "caracteristica": "Producto seleccionado con envío rápido y garantía Amazon.",
+        "precio_verificado": true,
+        "actualizado": "2026-10-08T09:16"
     }
 ]
